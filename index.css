@@ -1,0 +1,28 @@
+* {
+    border : 1px solid black;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.background-container--image1 {
+    background-image: url("./assets/bg1.jpg");
+    min-height: 700px;
+}
+.background-container--image2 {
+background-image: url("./assets/bg2.jpg");
+min-height: 400px;
+}
+.background-container--image3 {
+    background-image: url("./assets/bg3.jpg");
+    min-height: 400px;
+    }
+.background-container--image4 {
+    background-image: url("./assets/bg4.jpg");
+    min-height: 400px;
+}
